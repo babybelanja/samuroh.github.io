@@ -1,5 +1,5 @@
 
-title: Karna
+title: Samuroh
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
 url: http://webjeda.com/
 permalink: ':title/'
@@ -28,7 +28,7 @@ highlight: rouge
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-44134213-4
 
 # Comments
 disqus-shortname: webjeda-demo
