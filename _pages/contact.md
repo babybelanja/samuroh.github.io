@@ -4,8 +4,13 @@ layout: post
 permalink: /contact/
 ---
 
+Bisa kirim pesan via sosial media kita: 
 
-<style>
+- [Facebook](www.facebook.com/samurohbandung/)
+
+- [Instagram](https://www.instagram.com/samuroh_bandung/)
+
+<!-- <style>
 .contact-li {
     list-style: none;
 }
@@ -96,4 +101,4 @@ The styles for the form is included in this page. I haven't included it in the m
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
-<div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/webjeda/">WebJeda</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/webjeda/">WebJeda</a></blockquote></div> -->
