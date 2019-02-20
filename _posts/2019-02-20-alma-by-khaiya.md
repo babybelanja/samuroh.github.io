@@ -63,5 +63,14 @@ Bismillah
 
 ![Alma 05](https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/52360319_2126130704346678_4847938154902061056_n.jpg?_nc_cat=104&_nc_eui2=AeFJ7qyp-WqqbOvYY3OBoDIXjx9Z7hfhlanbWcsdE-ROTHPCISU5sBQ_DU_aRJ1Qkx8LiFWrdo_yXZeFqAjjiLB44lfaMrnN5qvOQjz62yJYuQ&_nc_ht=scontent-sin6-2.xx&oh=5dc27f636bcced1bb4051f22a471965c&oe=5CF58F4E)
 
-
 ![Alma 06](https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/52333362_2126130847679997_3657838936639668224_n.jpg?_nc_cat=104&_nc_eui2=AeF9d80TOT4LyzDG3GoZOgKX-ymagsDBIMHpd5RQHzrJ3MPrZzf2I05xBguvRaOtArskrUJeeTsrEDQytGqIJ9auiDAQNRKOIPGMuJmxYXBXHg&_nc_ht=scontent-sin6-2.xx&oh=4d48b502759ba1ef4dacc2a5a87536bc&oe=5CF600C2)
+
+<script>
+  fbq('track', 'ViewContent', {
+    value: 1,
+    currency: 'IDR',
+    content_ids: 'alma_by_khaiya',
+    content_type: 'product_group',
+  });
+</script>
+
