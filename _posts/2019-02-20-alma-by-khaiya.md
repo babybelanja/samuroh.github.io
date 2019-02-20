@@ -2,7 +2,7 @@
 layout: post
 title:  "Alma Dress by Khaiya"
 description: ‌Yeayyy akhirnya gamis motif dari Khaiya sudah release. Gamis dengan motif manis yang harus kamu miliki, dengan design dan bahan yang kamu banget. Dilengkapi dengan enam pilihan warna dan motif terfavorit, mulai dari harga 225.000.
-date: 2019-02-15 00:00:00 +7
+date: 2019-02-20 00:00:00 +7
 # categories: jekyll update
 img: khaiya-alma.jpg
 categories: [khaiya, gamis, khimar]
