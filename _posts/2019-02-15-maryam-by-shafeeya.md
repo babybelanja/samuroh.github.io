@@ -51,12 +51,3 @@ Bismillah
 ![Maryam Abaya grape](https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/52259292_2123273754632373_2055534299477704704_n.jpg?_nc_cat=104&_nc_eui2=AeEsH-tLn0iherVs9RCpjtI6d1AuNxBRjQceuGqg_YNeMDjEI2higGf9FVbrfL4v-6DDDUuRbdhBag2AiyG56N1ZNYOQNGGL2X5RN77H9g0a9Q&_nc_ht=scontent-sin6-2.xx&oh=e6d37a2e9499589fbd402062b2c0a496&oe=5CF7A7C5)
 
 ![Maryam Abaya Gold](https://scontent-sin6-2.xx.fbcdn.net/v/t1.0-9/52428018_2123273784632370_2681544345718358016_n.jpg?_nc_cat=102&_nc_eui2=AeGdUVvQ26o2Bik4Ff7SY93zM6fIfajKkOItbt-qFB2OqPKnA3Drlr-O4jAclel3QnO8CM5Y31634YuahCTCy8TVD38VKf8PJwKwKtXz2EzYrw&_nc_ht=scontent-sin6-2.xx&oh=1a603b0f801934cb6693e6c5e0b33cd7&oe=5CF1AD3A)
-
-<script>
-  fbq('track', 'ViewContent', {
-    value: 1,
-    currency: 'IDR',
-    content_ids: 'maryam_abaya_by_shafeeya',
-    content_type: 'product_group',
-  });
-</script>
