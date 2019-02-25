@@ -5,7 +5,7 @@ description: Khaniza Clothing kali ini memproduksi daily_gamis dengan nama SUISE
 date: 2019-02-25 00:00:00 +7
 # categories: jekyll update
 img: suisen-by-khaniza.png
-categories: [khaiya, gamis, khimar]
+categories: [suisen, khaniza, gamis, khimar]
 color: "8AB8CE"
 author: samuroh
 ---
