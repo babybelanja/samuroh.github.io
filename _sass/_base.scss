@@ -14,8 +14,10 @@ body {
          overflow-x: hidden;
          color: $text-color;
          line-height: 1.6;
+         margin: 0;
          @include media-query($on-palm) {
-          padding: 10px;        
+          padding: 10px;    
+              
     }
          
 }
