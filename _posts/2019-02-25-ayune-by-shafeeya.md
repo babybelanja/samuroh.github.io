@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Longdress Ayune by Shafeeya"
+title:  "Longdress Ayune by Naima"
 description: Bahan katun japan design dan cutting babydoll yang nyaman dengan empat pilihan warna, harganya juga masih di bawah 200.000 lho.
 date: 2019-02-25 00:00:00 +7
 # categories: jekyll update
 img: ayune-by-shafeeya.png
-categories: [ayune, shafeeya, gamis, khimar]
+categories: [ayune, naima, gamis, khimar]
 color: "C29D92"
 author: samuroh
 ---
