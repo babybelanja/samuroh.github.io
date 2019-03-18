@@ -4,8 +4,8 @@ title:  "Sakina by Safeea Kiddo"
 description: Serimbit by safeea kiddo siap dipinang nie... warnanya itu tuuuh bikin mau semua pesaan. Hehe
 date: 2019-03-13 17:54:00 +7
 img: sakina-by-safeea-kiddo.jpg
-categories: [safeea_kiddo, gamis, khimar]
-color: 7B7B79
+categories: [safeea_kiddo, sarimbit, gamis, khimar]
+color: "7B7B79"
 author: samuroh
 ---
 
